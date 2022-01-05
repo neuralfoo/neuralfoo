@@ -1,0 +1,94 @@
+.accuracytestreport-holder{
+	display: flex;	
+	flex-direction: column;
+	margin: 70px 0px 0px 0px;
+	width: 100%;
+	padding: 0px 0px 300px 0px;
+
+	align-items:center;
+	justify-content: flex-start;
+}
+
+
+.accuracytestreport-content{
+	display: flex;	
+	flex-direction: column;
+	margin: 20px 0px 0px 0px;
+	width: 80%;
+
+	align-items:flex-start;
+	justify-content: flex-start;
+}
+
+.accuracytestreport-title{
+	font-size: 27px;
+	margin: 0px 0px 10px 0px;
+	text-decoration: underline;
+	text-decoration-style: double;
+}
+
+.accuracytestreport-testboard-details{
+	display: flex;	
+	flex-direction: column;
+	margin: 0px 0px 0px 0px;
+	/*width: 80%;*/
+	align-items:flex-start;
+	justify-content: flex-start;
+}
+
+.accuracytestreport-key-value{
+	display: flex;	
+	flex-direction: row;
+	margin: 0px 0px 0px 0px;
+	/*width: 80%;*/
+	align-items:flex-start;
+	justify-content: flex-start;
+}
+
+.accuracytestreport-key{
+	margin: 0px 10px 0px 0px;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.accuracytestreport-value{
+	font-size: 16px;
+	margin: 0px 40px 0px 0px;
+}
+
+.accuracytestreport-link{
+	text-decoration: underline;
+}
+
+.accuracytestreport-sub-title{
+	font-size: 20px;
+	margin: 30px 0px 10px 0px;	
+	text-decoration-line: underline;
+}
+
+.accuracytestreport-small-title{
+	font-size: 18px;
+	margin: 10px 0px 5px 0px;
+	text-decoration: underline;
+	text-align: left;
+}
+
+.accuracytestreport-table-cell {
+  border:1px solid black;
+  padding: 10px;
+}
+
+/*
+*{
+	border: 1px solid #000;
+}
+
+*/
+
+
+
+
+
+
+
+

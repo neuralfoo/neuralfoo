@@ -1,0 +1,1 @@
+seaweedfs_master = "http://localhost:9333" #do not add slash to end (after port)

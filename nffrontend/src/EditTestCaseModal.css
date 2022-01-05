@@ -1,0 +1,39 @@
+.edittestcasemodal-keyname{
+	color: #000;
+	font-size: 15px;
+	margin: 0px 0px 5px 0px;
+
+}
+
+
+.edittestcasemodal-input{
+	padding-left: 5px;
+	width: 600px;
+	text-align: left;
+	/*border: 1px solid #fff;*/
+}
+
+
+
+.edittestcasemodal-key-value-holder{
+	display: flex;	
+	flex-direction: column;
+	align-items:flex-start;
+	justify-content: flex-start;
+	margin: 15px 40px 15px 0px;
+}
+
+.edittestcasemodal-requestbody{
+	/*width: 50%;*/
+	width: 600px;
+	min-height: 150px;
+	/*max-height: 350px;*/
+	font-size: 16px;
+	background-color: #fff;
+	border: 1px solid #ddd;
+	font-family: "Lucida Console", "Courier New", monospace;
+	/*overflow: scroll;*/
+}
+
+
+

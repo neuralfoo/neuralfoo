@@ -1,0 +1,37 @@
+.inputtable-holder{
+	display: flex;	
+	flex-direction: column;
+	margin: 0px 0px 0px 0px;
+	width: 100%;
+
+	align-items:center;
+	justify-content: flex-start;
+}
+
+.inputtable-horizontal-holder{
+	display: flex;	
+	flex-direction: row;
+	margin: 0px 0px 0px 0px;
+	width: 100%;
+	align-items:center;
+	justify-content: space-between;
+	margin: 0px 0px 30px 0px;
+
+}
+
+.inputtable-title{
+	font-size: 20px;
+}
+
+.inputtable-upload-holder{
+
+}
+
+.inputtable-table{
+	width: 100%;
+}
+
+/*
+*{
+	border: 1px solid #000;
+}*/

@@ -1,0 +1,65 @@
+.organizationsettings-holder{
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+	padding: 0px 20px 0px 20px;
+}
+
+
+.organizationsettings-title{
+	font-size: 20px;
+	font-family: sans-serif;
+	color: #000;
+	/*padding: 20px;*/
+	margin: 0px 0px 20px 0px;
+	/*border-bottom: 1px solid #000;*/
+}
+
+.organizationsettings-horizontal-holder{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: flex-start;
+	margin: 0px 0px 20px 0px;
+}
+
+.organizationsettings-input-holder{
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+	margin-right: 10px;
+}
+
+.organizationsettings-details-holder{
+	margin: 10px 0px 10px 0px;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: flex-end;	
+}
+
+
+.organizationsettings-label{
+	font-size: 13px;
+	color: #000;
+	font-weight: bold;
+	margin: 0px 10px 0px 0px;
+}
+
+.organizationsettings-value{
+	font-size: 15px;
+	color: #000;
+	font-weight: normal;
+	margin: 0px 0px 0px 0px;
+}
+
+.organizationsettings-link{
+	text-decoration: underline;
+}
+
+
+/**{
+	border: 1px solid #000;
+}*/

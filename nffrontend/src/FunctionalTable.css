@@ -1,0 +1,44 @@
+.functionaltable-holder{
+	display: flex;	
+	flex-direction: column;
+	margin: 100px 0px 0px 0px;
+	width: 100%;
+
+	align-items:center;
+	justify-content: flex-start;
+}
+
+.functionaltable-horizontal-holder{
+	display: flex;	
+	flex-direction: row;
+	margin: 0px 0px 0px 0px;
+	width: 100%;
+	align-items:center;
+	justify-content: space-between;
+	margin: 0px 0px 30px 0px;
+
+}
+
+.functionaltable-title{
+	font-size: 20px;
+	/*margin: 0px 0px 0px 0px;*/
+
+}
+
+.functionaltable-upload-holder{
+
+}
+
+.functionaltable-table{
+	width: 100%;
+}
+
+.functionaltable-refresh-button{
+	margin-left:30px ;
+}
+
+
+/*
+*{
+	border: 1px solid #000;
+}*/

@@ -1,0 +1,59 @@
+.masthead-holder{
+
+	margin: 20px;
+
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+}
+
+
+.masthead-title{
+	color: #000;
+	text-decoration: none;
+	font-size: 23px;
+	font-family: sans-serif;
+	margin: 0px 0px 0px 50px;
+
+	border-bottom: 2px solid #000;
+}
+
+.masthead-nav{
+	padding: 20px;
+
+}
+
+.masthead-nav-link{
+	
+	font-size: 16px;
+	font-family: sans-serif;	
+	cursor: pointer;
+
+	border: none;
+	background-color: transparent;
+
+	text-decoration: underline;
+	color: #000;
+
+	margin: 0px 20px 0px 20px;
+}
+
+.masthead-nav-link-active{
+	font-size: 16px;
+	font-family: sans-serif;	
+	cursor: pointer;
+
+	border: none;
+	background-color: transparent;
+	color: #000;
+	text-decoration: none;
+	margin: 0px 20px 0px 20px;	
+}
+
+
+.masthead-nav-link:hover{
+	
+	/*text-decoration: underline;	*/
+	/*color: #000;*/
+}

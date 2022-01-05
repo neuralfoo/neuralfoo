@@ -1,0 +1,194 @@
+.request-holder{
+
+	display: flex;	
+	flex-direction: column;
+	padding: 30px;
+
+	align-items:flex-start;
+	justify-content: flex-start;
+	width: 100%;
+
+	font-family: sans-serif;
+}
+
+.request-title{
+
+	font-size: 20px;
+	color: #000;
+
+	margin: 0px 0px 30px 0px;
+
+}
+
+
+.request-keyname{
+	color: #000;
+	font-size: 15px;
+	margin: 0px 0px 5px 0px;
+
+}
+
+.request-title{
+	color: #000;
+	font-size: 15px;
+	margin: 0px 5px 0px 5px;
+}
+
+
+.request-input{
+	padding-left: 5px;
+	width: 600px;
+	text-align: left;
+	/*border: 1px solid #fff;*/
+}
+/*
+.request-input:hover,.request-input:focus{
+	padding-left: 5px;
+	border: 1px solid #ddd;
+}*/
+
+
+.request-input-header{
+	/*padding-left: 0;*/
+	width: 250px;
+	text-align: left;
+	font-size: 12px;
+	font-family: "Lucida Console", "Courier New", monospace;
+	
+}
+
+.request-select{
+	width: 200px;
+	text-align: left;
+}
+
+.request-input-httpmethod{
+	width: 150px;
+	text-align: left;
+}
+
+.request-key-value-holder{
+	display: flex;	
+	flex-direction: column;
+	align-items:flex-start;
+	justify-content: flex-start;
+	margin: 15px 40px 15px 0px;
+}
+
+.request-key-value-holder-fullwidth{
+	display: flex;	
+	flex-direction: column;
+	align-items:flex-start;
+	justify-content: flex-start;
+	margin: 15px 40px 15px 0px;
+	flex-grow: 1;
+}
+
+.request-horizontal-holder{
+
+	display: flex;	
+	flex-direction: row;
+	align-items:flex-start;
+	justify-content: flex-start;
+	width: 100%;
+
+}
+
+.request-title-horizontal-holder{
+	display: flex;	
+	flex-direction: row;
+	align-items:center;
+	justify-content: center;
+	width: 100%;	
+}
+
+.request-keyname-header{
+	color: #888;
+	font-size: 14px;
+	margin: 10px 0px 5px 0px;
+
+}
+
+.add-header-button{
+	margin: 15px 0px 15px 0px;
+	font-size: 11px;
+	color: #888;
+}
+
+.request-icon-holder{
+	align-self: center;
+}
+
+
+.request-requestbody{
+	/*width: 50%;*/
+	width: 550px;
+	min-height: 150px;
+	/*max-height: 350px;*/
+	font-size: 16px;
+	background-color: #fff;
+	border: 1px solid #ddd;
+	font-family: "Lucida Console", "Courier New", monospace;
+	/*overflow: scroll;*/
+}
+
+.request-requestbodytype{
+	margin: 10px;
+}
+
+
+.request-input-endpoint{
+	/*padding-left: 5;*/
+	width: 100%;
+	text-align: left;
+	/*background-color: #f5f5f5;*/
+	border: 5px;
+	padding: 5px 0px 5px 5px;
+	font-family: "Lucida Console", "Courier New", monospace;
+	font-size: 14px;
+	border: 1px solid #fff;
+	color: #3a86ff;
+}
+
+.request-valuename-endpoint{
+	width: 100%;
+}
+
+.request-input-endpoint:hover,.request-input-endpoint:focus{
+	padding-left: 5px;
+	border: 1px solid #ddd;
+}
+
+
+.create-request-button{
+	margin: 40px 20px 40px 0px;
+}
+
+.discard-request-button{
+	margin: 40px 0px 40px 20px;
+}
+
+.request-button-holder{
+	margin: 0px 0px 100px 0px;
+}
+
+.request-radio-button-text{
+	font-size: 13px;
+}
+
+
+/**{
+	border: 1px solid #000;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+

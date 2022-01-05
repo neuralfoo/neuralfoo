@@ -1,0 +1,1 @@
+./weed volume -dir="./volume1" -max=5  -mserver="localhost:9333" -port=9334
